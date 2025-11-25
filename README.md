@@ -1,4 +1,4 @@
-# TUI To-Do List (C / ncurses)
+<img width="1125" height="941" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/ab65de08-6fb5-4243-aecc-beeedd4e54dc" /># TUI To-Do List (C / ncurses)
 A terminal-based to-do list manager written in **C** using **ncurses**.  
 This project was created as a university final project and focuses on clean C code, modular design, and an intuitive terminal user interface.
 
@@ -6,15 +6,12 @@ This project was created as a university final project and focuses on clean C co
 
 ---
 
-## 🖼 Screenshots
+## 🖼
 
-### Full TUI Example (with tasks, categories, subtasks)
+<img width="1125" height="941" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/acf5537f-c423-42bc-bbd6-6a2c39edc84d" />
 
-![Full View](assets/full-view.png)
+<img width="1103" height="877" alt="Screenshot 2025-11-25 125102" src="https://github.com/user-attachments/assets/9ea649d0-1944-45b5-96d4-ddce784ca917" />
 
-### Empty State / Initial UI
-
-![Main View](assets/main-view.png)
 
 ---
 
