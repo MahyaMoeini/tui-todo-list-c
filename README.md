@@ -6,16 +6,13 @@ This project was created as a university final project and focuses on clean C co
 
 ---
 
-## 🖼
+## 🖼 Pictures of terminal
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acf5537f-c423-42bc-bbd6-6a2c39edc84d" width="500" />
+  <img src="https://github.com/user-attachments/assets/acf5537f-c423-42bc-bbd6-6a2c39edc84d" width="420" />
+  <img src="https://github.com/user-attachments/assets/9ea649d0-1944-45b5-96d4-ddce784ca917" width="420" />
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ea649d0-1944-45b5-96d4-ddce784ca917" width="500" />
-</p>
 
 
 
